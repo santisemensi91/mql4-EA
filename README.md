@@ -1,2 +1,2 @@
 # mql4-EA
-Repository used to store current expert avisor project
+Repository used to store SPM_LCT.mq4 project
